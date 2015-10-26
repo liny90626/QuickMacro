@@ -27,7 +27,7 @@ UEsDBBQAAgAIAIApS0enXeak0gMAAKIKAAAJABEAQ2xvc2UuYm1wVVQNAAeg7xlWoO8ZVqDvGVaVlj9o
 
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -456,12 +456,20 @@ Function clickColorsWhenFoundExSlide(hWnd, left, top, right, bottom, _
 End Function
 
 // 函数定义 --------------------------------------------------------
-Function isWndInvalid(hWnd)
+Function isWndInvalid(hWnd, left, top, right, bottom)
     sTitle = Plugin.Window.GetText(Hwnd)
     If 0 < InStr(sTitle, WIN_VALID_TITLE) Then 
         isWndInvalid = FALSE
         Exit Function
     End If
+    
+    If right - left <> 800 Or _
+    	bottom - top <> 600 Then
+    	Call logRecord(ENUM_LOG_LEVEL_ERR, "分辨率不匹配")
+    	isWndInvalid = FALSE
+        Exit Function
+    End If
+    
     isWndInvalid = TRUE
 End Function
 
@@ -1532,6 +1540,12 @@ Function handlerFBDemonLongStatus(hWnd, left, top, right, bottom, status)
             handlerFBDemonLongStatus = RET_FAILED
             Exit Function
         End If
+    
+    Case ENUM_STATUS_IDEL_WITH_CLOSE
+        If TRUE <> closeDialogInIdle(hWnd, left, top, right, bottom) Then 
+            handlerFBDemonLongStatus = RET_FAILED
+            Exit Function
+        End If
         
     Case ENUM_STATUS_DIALOG_FB_CONFIRM
     	If TRUE <> confirmToFB(hWnd, left, top, right, bottom) Then 
@@ -1630,12 +1644,14 @@ Function requestFBHellTask(hWnd, left, top, right, bottom)
 End Function
 
 Function runAutoFBDemon(hWnd, left, top, right, bottom)
-	Dim curFailedNum, curLoopNum
+	Dim curFailedNum
     Dim curStatus, lastStatus, curStatusCnt
+    Dim alreadyInFbFlag
     
-    curFailedNum = curLoopNum = 0
+    curFailedNum = 0
     curStatus = lastStatus = -1
     curStatusCnt = 0
+    alreadyInFbFlag = FALSE
     
 	While TRUE
     	curStatus = getCurFBStatus(hWnd, left, top, right, bottom)
@@ -1657,6 +1673,29 @@ Function runAutoFBDemon(hWnd, left, top, right, bottom)
             	curFailedNum = curFailedNum + 1
             	
         End Select
+        
+        // 判断当前任务是否结束
+        If curStatus = ENUM_STATUS_DIALOG_FB_CONFIRM And _
+        	TRUE = alreadyInFbFlag Then 
+        	/*
+        	已经进入过副本, 但又出现选择副本的对话, 则可视为副本
+        	已经完成
+        	*/
+        	Call logRecord(ENUM_LOG_LEVEL_DEBUG, "副本执行完毕...")
+			runAutoFBDemon = TRUE
+            Exit Function
+        End If
+        
+       
+        If lastStatus = ENUM_STATUS_IN_FB_NORMAL And _
+        	curStatus = ENUM_STATUS_LOADING_MAP Then
+        	/* 
+        	之前状态为普通副本, 而之后状态为加载地图, 则可以视为
+        	进入副本
+        	*/
+        	Call logRecord(ENUM_LOG_LEVEL_DEBUG, "进入副本中...")
+        	alreadyInFbFlag = TRUE
+        End If
               
         // 状态记录与持续次数统计
         If lastStatus <> curStatus Then 
@@ -1665,19 +1704,7 @@ Function runAutoFBDemon(hWnd, left, top, right, bottom)
         Else 
             curStatusCnt = curStatusCnt + 1
         End If
-        
-        If curStatus = ENUM_STATUS_DIALOG_FB_CONFIRM And _
-			0 = curStatusCnt Then
-			curLoopNum = curLoopNum + 1
-			If 1 < curLoopNum Then 
-				Call logRecord(ENUM_LOG_LEVEL_INFO, "当前任务执行完毕")
-				runAutoFBDemon = TRUE
-            	Exit Function
-			Else 
-				Call logRecord(ENUM_LOG_LEVEL_INFO, "进入选择副本界面")
-			End If  
-        End If
-             
+    
         // 判断是否为持续状态
         If curStatusCnt > STATUS_KEEP_CNT_MAX Then 
             curStatusCnt = 0
@@ -1806,6 +1833,12 @@ Function handlerFBHellLongStatus(hWnd, left, top, right, bottom, status)
             handlerFBHellLongStatus = RET_FAILED
             Exit Function
         End If
+    
+    Case ENUM_STATUS_IDEL_WITH_CLOSE
+        If TRUE <> closeDialogInIdle(hWnd, left, top, right, bottom) Then 
+            handlerFBHellLongStatus = RET_FAILED
+            Exit Function
+        End If
         
     Case ENUM_STATUS_DIALOG_FB_CONFIRM
     	If TRUE <> confirmToFB(hWnd, left, top, right, bottom) Then 
@@ -1851,11 +1884,12 @@ End Function
 Function runAutoFBHell(hWnd, left, top, right, bottom)
 	Dim curFailedNum
     Dim curStatus, lastStatus, curStatusCnt
+    Dim alreadyInFbFlag
     
     curFailedNum = 0
     curStatus = lastStatus = -1
     curStatusCnt = 0
-    
+    alreadyInFbFlag = FALSE
 	While TRUE
     	curStatus = getCurFBStatus(hWnd, left, top, right, bottom)
         // 短暂状态处理
@@ -1876,24 +1910,35 @@ Function runAutoFBHell(hWnd, left, top, right, bottom)
             	
         End Select
         
+        // 判断当前任务是否结束
+        If curStatus = ENUM_STATUS_DIALOG_FB_CONFIRM And _
+        	TRUE = alreadyInFbFlag Then 
+        	/*
+        	已经进入过副本, 但又出现选择副本的对话, 则可视为副本
+        	已经完成
+        	*/
+        	Call logRecord(ENUM_LOG_LEVEL_DEBUG, "副本执行完毕...")
+			runAutoFBHell = TRUE
+            Exit Function
+        End If
+        
+       
+        If lastStatus = ENUM_STATUS_IN_FB_NORMAL And _
+        	curStatus = ENUM_STATUS_LOADING_MAP Then
+        	/* 
+        	之前状态为普通副本, 而之后状态为加载地图, 则可以视为
+        	进入副本
+        	*/
+        	Call logRecord(ENUM_LOG_LEVEL_DEBUG, "进入副本中...")
+        	alreadyInFbFlag = TRUE
+        End If
+        
         // 状态记录与持续次数统计
         If lastStatus <> curStatus Then 
             lastStatus = curStatus
             curStatusCnt = 0
         Else 
             curStatusCnt = curStatusCnt + 1
-        End If
-        
-        If curStatus = ENUM_STATUS_DIALOG_FB_CONFIRM And _
-			0 = curStatusCnt Then
-			curLoopNum = curLoopNum + 1
-			If 1 < curLoopNum Then 
-				Call logRecord(ENUM_LOG_LEVEL_INFO, "当前任务执行完毕")
-				runAutoFBHell = TRUE
-            	Exit Function
-			Else 
-				Call logRecord(ENUM_LOG_LEVEL_INFO, "进入选择副本界面")
-			End If  
         End If
              
         // 判断是否为持续状态
@@ -2047,7 +2092,7 @@ Function main()
 		arrRect(0) + " " + arrRect(1) + " " + _
 		arrRect(2) + " " + arrRect(3))
 		
-    If isWndInvalid(hCurWnd) Then 
+    If isWndInvalid(hCurWnd, posLeft, posTop, posRight, posBottom) Then 
         Call logRecord(ENUM_LOG_LEVEL_ERR, "运行失败, 非法的程序窗口")
         main = FALSE
         Exit Function
