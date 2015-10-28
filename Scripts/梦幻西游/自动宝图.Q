@@ -27,7 +27,7 @@ UEsDBBQAAgAIAP5mSkfpJcvGTwUAAGYJAAANABEASWRsZV+4o8D7LmJtcFVUDQAHswoZVlQHGVZUBxlW
 
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -571,13 +571,13 @@ Function backToIdle(hWnd, left, top, right, bottom)
 	If TRUE = checkPicIsFound(hWnd, _
 		left+REL_LEFT_BAR_POS_LEFT, top+REL_LEFT_BAR_POS_TOP, _
 		left+REL_LEFT_BAR_POS_RIGHT, top+REL_LEFT_BAR_POS_BOTTOM, _
-		"Attachment:\Idle_福利.bmp", _
+		"Attachment:\Idle_商城.bmp", _
 		PIC_MATCHED_PARAMS) Then
 			
 		If TRUE = checkPicIsFound(hWnd, _
 			left+REL_LEFT_BAR_POS_LEFT, top+REL_LEFT_BAR_POS_TOP, _
 			left+REL_LEFT_BAR_POS_RIGHT, top+REL_LEFT_BAR_POS_BOTTOM, _
-			"Attachment:\Idle_福利.bmp", _
+			"Attachment:\Idle_商城.bmp", _
 			PIC_MATCHED_PARAMS) Then
 			backToIdle = TRUE
 			Exit Function
@@ -589,13 +589,13 @@ Function backToIdle(hWnd, left, top, right, bottom)
 	If TRUE = checkPicIsFound(hWnd, _
 		left+REL_LEFT_BAR_POS_LEFT, top+REL_LEFT_BAR_POS_TOP, _
 		left+REL_LEFT_BAR_POS_RIGHT, top+REL_LEFT_BAR_POS_BOTTOM, _
-		"Attachment:\Idle_福利.bmp", _
+		"Attachment:\Idle_商城.bmp", _
 		PIC_MATCHED_PARAMS) Then
 			
 		If TRUE = checkPicIsFound(hWnd, _
 			left+REL_LEFT_BAR_POS_LEFT, top+REL_LEFT_BAR_POS_TOP, _
 			left+REL_LEFT_BAR_POS_RIGHT, top+REL_LEFT_BAR_POS_BOTTOM, _
-			"Attachment:\Idle_福利.bmp", _
+			"Attachment:\Idle_商城.bmp", _
 			PIC_MATCHED_PARAMS) Then
 			backToIdle = TRUE
 			Exit Function
@@ -1035,7 +1035,7 @@ Call logClear()
 Call processClear()
 
 Call logRecord(ENUM_LOG_LEVEL_INFO, "宝图程序开始执行")
-BeginThread fakeProcess()
+//BeginThread fakeProcess()
 Call main()
 Call setProcessLevel(100)
 Call logRecord(ENUM_LOG_LEVEL_INFO, "宝图程序执行完毕")
