@@ -27,7 +27,7 @@ UEsDBBQAAgAIAIApS0enXeak0gMAAKIKAAAJABEAQ2xvc2UuYm1wVVQNAAeg7xlWoO8ZVqDvGVaVlj9o
 
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -698,7 +698,7 @@ Function clickGhostTask(hWnd, left, top, right, bottom)
     matchedX = CInt(xyArray(0))
     matchedY = CInt(xyArray(1))
     If matchedX <> - 1  And matchedY <> - 1  Then 
-        Call logRecord(ENUM_LOG_LEVEL_INFO, "长时间未开始捉鬼, 点击捉鬼任务以继续...")
+        Call logRecord(ENUM_LOG_LEVEL_DEBUG, "点击捉鬼任务以继续...")
         Call clickAsManual(matchedX, matchedY, 0, 160, 0, 50) 
         clickGhostTask = TRUE
         Exit Function
@@ -845,12 +845,13 @@ Function requestGhostTask(hWnd, left, top, right, bottom)
 		TASK_DAYLY_GHOST_COLORBASE, TASK_DAYLY_GHOST_COLORLIST, _
 		COLORS_MATCHED_PARAMS_PRECISE, _
 		200, 250, -10, 20) Then
-        requestGhostTask = TRUE
+		 Call logRecord(ENUM_LOG_LEVEL_WARN, "领取捉鬼任务失败...")
+        requestGhostTask = FALSE
         Exit Function
     End If
     
-    Call logRecord(ENUM_LOG_LEVEL_WARN, "领取捉鬼任务失败...")
-    requestGhostTask = FALSE
+    Call logRecord(ENUM_LOG_LEVEL_INFO, "领取捉鬼任务成功")
+    requestGhostTask = TRUE
 End Function
 
 Function handlerGhostShortStatus(hWnd, left, top, right, bottom, status)
@@ -1008,6 +1009,31 @@ Function runAutoGhost(hWnd, left, top, right, bottom, loopNum)
     While TRUE
         curStatus = getCurGhostStatus(hWnd, left, top, right, bottom)
         
+        // 状态记录与持续次数统计
+        If lastStatus <> curStatus Then 
+            lastStatus = curStatus
+            curStatusCnt = 0
+        Else 
+            curStatusCnt = curStatusCnt + 1
+        End If
+        
+        If curStatus = ENUM_STATUS_CONFIRM_GET_GHOST_TASK And _
+			0 = curStatusCnt Then
+            curLoopNum = curLoopNum + 1
+            If loopNum > 0 Then 
+                diffNum = loopNum - curLoopNum
+                If diffNum < 0 Then 
+                    Call logRecord(ENUM_LOG_LEVEL_INFO, "已捉鬼" + CStr(loopNum) + "轮, 结束任务")
+                    runAutoGhost = TRUE
+                    Exit Function
+                Else 
+                    Call logRecord(ENUM_LOG_LEVEL_INFO, "开始第" + CStr(curLoopNum) + "轮捉鬼" + "; 还剩下" + CStr(diffNum) + "轮") 	
+                End If
+            Else 
+                Call logRecord(ENUM_LOG_LEVEL_INFO, "开始第" + CStr(curLoopNum) + "轮捉鬼")
+            End If
+        End If
+        
         // 短暂状态处理
         Select Case handlerGhostShortStatus(hWnd, left, top, right, bottom, curStatus)
         	Case RET_SUCCESS_EXIT
@@ -1025,32 +1051,7 @@ Function runAutoGhost(hWnd, left, top, right, bottom, loopNum)
             	curFailedNum = curFailedNum + 1
             	
         End Select
-        
-        // 状态记录与持续次数统计
-        If lastStatus <> curStatus Then 
-            lastStatus = curStatus
-            curStatusCnt = 0
-        Else 
-            curStatusCnt = curStatusCnt + 1
-        End If
-        
-        If curStatus = ENUM_STATUS_CONFIRM_GET_GHOST_TASK And _
-			0 = curStatusCnt Then
-            curLoopNum = curLoopNum + 1
-            If loopNum > 0 Then 
-                diffNum = loopNum - curLoopNum
-                If diffNum < 0 Then 
-                    Call logRecord(ENUM_LOG_LEVEL_INFO, "已捉鬼" + CStr(curLoopNum) + "轮, 结束任务")
-                    runAutoGhost = TRUE
-                    Exit Function
-                Else 
-                    Call logRecord(ENUM_LOG_LEVEL_INFO, "开始第" + CStr(curLoopNum) + "轮捉鬼" + "; 还剩下" + CStr(diffNum) + "轮") 	
-                End If
-            Else 
-                Call logRecord(ENUM_LOG_LEVEL_INFO, "开始第" + CStr(curLoopNum) + "轮捉鬼")
-            End If
-        End If
-        
+
         // 判断是否为持续状态
         If curStatusCnt > STATUS_KEEP_CNT_MAX Then 
             curStatusCnt = 0
@@ -1323,12 +1324,13 @@ Function requestFBDemonTask(hWnd, left, top, right, bottom)
 		TASK_DAYLY_FB_DEMON_COLORBASE, TASK_DAYLY_FB_DEMON_COLORLIST, _
 		COLORS_MATCHED_PARAMS_PRECISE, _
 		220, 250, 0, 30) Then
-        requestFBDemonTask = TRUE
+		Call logRecord(ENUM_LOG_LEVEL_WARN, "领取副本任务失败...")
+        requestFBDemonTask = FALSE
         Exit Function
     End If
     
-    Call logRecord(ENUM_LOG_LEVEL_WARN, "领取副本任务失败...")
-    requestFBDemonTask = FALSE
+    Call logRecord(ENUM_LOG_LEVEL_INFO, "领取副本任务成功")
+    requestFBDemonTask = TRUE
 End Function
 
 Function confirmToFB(hWnd, left, top, right, bottom)
@@ -1634,12 +1636,12 @@ Function requestFBHellTask(hWnd, left, top, right, bottom)
 		TASK_DAYLY_FB_HELL_COLORBASE, TASK_DAYLY_FB_HELL_COLORLIST, _
 		COLORS_MATCHED_PARAMS_PRECISE, _
 		210, 250, 0, 20) Then
-		Call logRecord(ENUM_LOG_LEVEL_INFO, "领取副本任务成功")
+		Call logRecord(ENUM_LOG_LEVEL_WARN, "领取副本任务失败...")
         requestFBHellTask = TRUE
         Exit Function
     End If
     
-    Call logRecord(ENUM_LOG_LEVEL_WARN, "领取副本任务失败...")
+    Call logRecord(ENUM_LOG_LEVEL_INFO, "领取副本任务成功")
     requestFBHellTask = FALSE
 End Function
 
@@ -1873,7 +1875,7 @@ Function handlerFBHellLongStatus(hWnd, left, top, right, bottom, status)
     	Exit Function
         
     Case Else
-        Call logRecord(ENUM_LOG_LEVEL_INFO, "未知")
+        //Call logRecord(ENUM_LOG_LEVEL_INFO, "未知")
         handlerFBHellLongStatus = RET_FAILED
         Exit Function
     End Select
