@@ -27,7 +27,7 @@ UEsDBBQAAgAIAIApS0enXeak0gMAAKIKAAAJABEAQ2xvc2UuYm1wVVQNAAeg7xlWoO8ZVqDvGVaVlj9o
 
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -166,6 +166,9 @@ Const TASK_DAYLY_COLORLIST = "2|0|0D346E,4|0|0D346E,6|0|0D346E,0|7|123871,3|7|12
 Const TASK_DAYLY_GHOST_COLORBASE = "942884"
 Const TASK_DAYLY_GHOST_COLORLIST = "0|-6|EFB2F7,-6|-11|73EFFF,-8|17|107539,-4|14|8C347B,194|9|5ABEEF"
 
+Const TASK_DAYLY_FB_COMMON_COLORBASE = "EFBA94"
+Const TASK_DAYLY_FB_COMMON_COLORLIST = "25|2|843C39,10|7|B56152,-9|9|FFFFFF,10|-18|946563,-8|-1|4A1408"
+
 Const TASK_DAYLY_FB_DEMON_COLORBASE = "DEA67B"
 Const TASK_DAYLY_FB_DEMON_COLORLIST = "11|-19|946563,-10|16|D6A67B,6|7|BD6D5A,70|-21|213852,112|-11|293C5A,175|-9|C6DBEF"
 
@@ -186,6 +189,14 @@ Const TASKLIST_FB_DEMON_COLORLIST = "-3|9|18D7DE,24|-1|18F3FF,30|0|18EBF7,60|2|2
 
 Const TASKLIST_FB_HELL_COLORBASE = "18F3FF"
 Const TASKLIST_FB_HELL_COLORLIST = "5|5|18EBF7,27|-3|18E3EF,45|0|18EBF7,158|7|315584,153|6|C6DBEF"
+
+// 天蓬下凡
+Const TASKLIST_FB_TPXF_COLORBASE = "18E7EF"
+Const TASKLIST_FB_TPXF_COLORLIST = "14|5|18E7EF,43|-6|18E7EF,153|5|315584,148|5|C6DBEF"
+
+// 两界山
+Const TASKLIST_FB_LJS_COLORBASE = "18E3EF"
+Const TASKLIST_FB_LJS_COLORLIST = "7|-6|18E7EF,24|0|18F3FF,36|8|18D3DE,153|5|21497B,149|0|E7EFF7"
 
 // 通用函数定义 ----------------------------------------------------
 Function getRandom(m,n)
@@ -1155,7 +1166,6 @@ Function getCurFBStatus(hWnd, left, top, right, bottom)
 		"Attachment:\Loading_剧情.bmp", PIC_MATCHED_PARAMS_PRECISE, _
 		matchedX, matchedY
     If matchedX <> - 1  And matchedY <> - 1  Then 
-    	Call logRecord(ENUM_LOG_LEVEL_INFO, "剧情模式!!!!!!!!!!!")
      	getCurFBStatus = ENUM_STATUS_LOADING_STORY
         Exit Function
     End If
@@ -1330,13 +1340,27 @@ Function getCurFBStatus(hWnd, left, top, right, bottom)
         getCurFBStatus = ENUM_STATUS_HAS_FB_TASK
         Exit Function
     End If
-    
-    posXY = Plugin.Color.FindMutiColor( _
+
+	posXY = Plugin.Color.FindMutiColor( _
 		left + REL_RIGHT_TASKLIST_POS_LEFT, _
 		top + REL_RIGHT_TASKLIST_POS_TOP, _
 		left + REL_RIGHT_TASKLIST_POS_RIGHT, _
 		bottom + REL_RIGHT_TASKLIST_POS_BOTTOM, _
-		TASK_DAYLY_FB_OTHERS_COLORBASE, TASK_DAYLY_FB_OTHERS_COLORLIST, COLORS_MATCHED_PARAMS_PRECISE)
+		TASKLIST_FB_TPXF_COLORBASE, TASKLIST_FB_TPXF_COLORLIST, COLORS_MATCHED_PARAMS_PRECISE)
+    xyArray = Split(posXY, "|")
+    matchedX = CInt(xyArray(0))
+    matchedY = CInt(xyArray(1))
+    If matchedX <> -1 And matchedY <> -1 Then 
+        getCurFBStatus = ENUM_STATUS_HAS_FB_TASK
+        Exit Function
+    End If
+
+	posXY = Plugin.Color.FindMutiColor( _
+		left + REL_RIGHT_TASKLIST_POS_LEFT, _
+		top + REL_RIGHT_TASKLIST_POS_TOP, _
+		left + REL_RIGHT_TASKLIST_POS_RIGHT, _
+		bottom + REL_RIGHT_TASKLIST_POS_BOTTOM, _
+		TASKLIST_FB_LJS_COLORBASE, TASKLIST_FB_LJS_COLORLIST, COLORS_MATCHED_PARAMS_PRECISE)
     xyArray = Split(posXY, "|")
     matchedX = CInt(xyArray(0))
     matchedY = CInt(xyArray(1))
@@ -1380,7 +1404,25 @@ Function getCurFBStatus(hWnd, left, top, right, bottom)
     getCurFBStatus = ENUM_STATUS_UNKOWN
 End Function
 
-Function requestFBDemonTask(hWnd, left, top, right, bottom)
+Function requestFBDemonTask(hWnd, left, top, right, bottom)	
+	// 是否有副本通用任务
+    posXY = Plugin.Color.FindMutiColor( _
+		left+REL_CENTER_TASKLIST_POS_LEFT, _
+		top+REL_CENTER_TASKLIST_POS_TOP, _
+		left+REL_CENTER_TASKLIST_POS_RIGHT, _
+		top+REL_CENTER_TASKLIST_POS_BOTTOM, _
+		TASK_DAYLY_FB_COMMON_COLORBASE, TASK_DAYLY_FB_COMMON_COLORLIST, _
+		COLORS_MATCHED_PARAMS_PRECISE)
+    xyArray = Split(posXY, "|")
+    matchedX = CInt(xyArray(0))
+    matchedY = CInt(xyArray(1))
+    If matchedX <> -1 And matchedY <> -1 Then 
+        Call clickAsManual(matchedX, matchedY, 210, 260, -10, 10)
+        requestFBDemonTask = TRUE
+        Exit Function
+    End If
+
+
 	// 是否有混世魔王-普通任务
     posXY = Plugin.Color.FindMutiColor( _
 		left+REL_CENTER_TASKLIST_POS_LEFT, _
@@ -1404,9 +1446,9 @@ Function requestFBDemonTask(hWnd, left, top, right, bottom)
 		top+REL_CENTER_TASKLIST_POS_TOP, _
 		left+REL_CENTER_TASKLIST_POS_RIGHT, _
 		top+REL_CENTER_TASKLIST_POS_BOTTOM, _
-		TASK_DAYLY_FB_DEMON_COLORBASE, TASK_DAYLY_FB_DEMON_COLORLIST, _
+		TASK_DAYLY_FB_COMMON_COLORBASE, TASK_DAYLY_FB_COMMON_COLORLIST, _
 		COLORS_MATCHED_PARAMS_PRECISE, _
-		200, 250, -15, 10) Then
+		210, 260, -10, 10) Then
 		Call logRecord(ENUM_LOG_LEVEL_WARN, "领取副本任务失败...")
         requestFBDemonTask = FALSE
         Exit Function
@@ -1520,7 +1562,22 @@ Function clickFBTask(hWnd, left, top, right, bottom)
 		top + REL_RIGHT_TASKLIST_POS_TOP, _
 		left + REL_RIGHT_TASKLIST_POS_RIGHT, _
 		bottom + REL_RIGHT_TASKLIST_POS_BOTTOM, _
-		TASK_DAYLY_FB_OTHERS_COLORBASE, TASK_DAYLY_FB_OTHERS_COLORLIST, COLORS_MATCHED_PARAMS_PRECISE)
+		TASKLIST_FB_TPXF_COLORBASE, TASKLIST_FB_TPXF_COLORLIST, COLORS_MATCHED_PARAMS_PRECISE)
+    xyArray = Split(posXY, "|")
+    matchedX = CInt(xyArray(0))
+    matchedY = CInt(xyArray(1))
+    If matchedX <> -1 And matchedY <> -1 Then 
+        Call clickAsManual(matchedX, matchedY, 0, 160, 0, 50)
+        clickFBTask = TRUE
+        Exit Function
+    End If
+
+	posXY = Plugin.Color.FindMutiColor( _
+		left + REL_RIGHT_TASKLIST_POS_LEFT, _
+		top + REL_RIGHT_TASKLIST_POS_TOP, _
+		left + REL_RIGHT_TASKLIST_POS_RIGHT, _
+		bottom + REL_RIGHT_TASKLIST_POS_BOTTOM, _
+		TASKLIST_FB_LJS_COLORBASE, TASKLIST_FB_LJS_COLORLIST, COLORS_MATCHED_PARAMS_PRECISE)
     xyArray = Split(posXY, "|")
     matchedX = CInt(xyArray(0))
     matchedY = CInt(xyArray(1))
@@ -1590,7 +1647,10 @@ Function handlerFBDemonShortStatus(hWnd, left, top, right, bottom, status)
         End If
 
 	Case ENUM_STATUS_LOADING_STORY
-		// Can't be here
+		If TRUE <> clickInStoryMode(hWnd, left, top, right, bottom) Then 
+            handlerFBDemonShortStatus = RET_FAILED
+            Exit Function
+        End If
 
     Case Else
         //Call logRecord(ENUM_LOG_LEVEL_INFO, "未知")
@@ -1680,7 +1740,10 @@ Function handlerFBDemonLongStatus(hWnd, left, top, right, bottom, status)
         End If
     
     Case ENUM_STATUS_LOADING_STORY
-		// Can't be here
+		If TRUE <> clickInStoryMode(hWnd, left, top, right, bottom) Then 
+            handlerFBDemonLongStatus = RET_FAILED
+            Exit Function
+        End If
         
     Case Else
         Call logRecord(ENUM_LOG_LEVEL_INFO, "未知状态: " + CStr(status))
@@ -1709,6 +1772,23 @@ Function chooseToFBHell(hWnd, left, top, right, bottom)
 End Function
 
 Function requestFBHellTask(hWnd, left, top, right, bottom)
+	// 是否有副本通用任务
+    posXY = Plugin.Color.FindMutiColor( _
+		left+REL_CENTER_TASKLIST_POS_LEFT, _
+		top+REL_CENTER_TASKLIST_POS_TOP, _
+		left+REL_CENTER_TASKLIST_POS_RIGHT, _
+		top+REL_CENTER_TASKLIST_POS_BOTTOM, _
+		TASK_DAYLY_FB_COMMON_COLORBASE, TASK_DAYLY_FB_COMMON_COLORLIST, _
+		COLORS_MATCHED_PARAMS_PRECISE)
+    xyArray = Split(posXY, "|")
+    matchedX = CInt(xyArray(0))
+    matchedY = CInt(xyArray(1))
+    If matchedX <> -1 And matchedY <> -1 Then 
+        Call clickAsManual(matchedX, matchedY, 210, 260, -10, 10)
+        requestFBHellTask = TRUE
+        Exit Function
+    End If
+
 	// 是否有地府送瓜-普通任务
 	Call logRecord(ENUM_LOG_LEVEL_INFO, "领取副本任务中...") 
     posXY = Plugin.Color.FindMutiColor( _
@@ -1734,9 +1814,9 @@ Function requestFBHellTask(hWnd, left, top, right, bottom)
 		top+REL_CENTER_TASKLIST_POS_TOP, _
 		left+REL_CENTER_TASKLIST_POS_RIGHT, _
 		top+REL_CENTER_TASKLIST_POS_BOTTOM, _
-		TASK_DAYLY_FB_HELL_COLORBASE, TASK_DAYLY_FB_HELL_COLORLIST, _
+		TASK_DAYLY_FB_COMMON_COLORBASE, TASK_DAYLY_FB_COMMON_COLORLIST, _
 		COLORS_MATCHED_PARAMS_PRECISE, _
-		200, 250, -15, 10) Then
+		210, 260, -10, 10) Then
 		Call logRecord(ENUM_LOG_LEVEL_WARN, "领取副本任务失败...")
         requestFBHellTask = TRUE
         Exit Function
@@ -2178,11 +2258,11 @@ End Function
 Function runAutoTask(hWnd, left, top, right, bottom, taskIndex)
 	Select Case taskIndex
 		Case TASKID_FB_DEMON
-			// 魔王
+			// 魔王, 天蓬
 			runAutoTask = runAutoFBDemon(hWnd, left, top, right, bottom)
 			
 		Case TASKID_FB_HELL
-			// 地瓜
+			// 地瓜, 两界
 			runAutoTask = runAutoFBHell(hWnd, left, top, right, bottom)
 			
 		Case TASKID_FB_GHOST
