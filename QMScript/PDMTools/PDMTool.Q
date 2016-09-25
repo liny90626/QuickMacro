@@ -23,7 +23,7 @@ SetupOCXFile=
 [Comment]
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -43,8 +43,11 @@ Event FormGlobal.Load
 	Const DEVICE_ID_LIST = "R48G|R49P"
 	Const TIPS_SELECT_FILE = "请选择要上PDM的.img文件"
 	
+	Const DEVICE_R48G_WORD_TEMPLATE_PATH = "./"
+	Const DEVICE_R48G_WORD_TEMPLATE_LIST = "工程文件发行.doc|Mac烧写工具.doc"
+	
 	SetPDMToolVersion(PDMTOOL_VERSION)
-	SetDeviceList (DEVICE_ID_LIST)
+	SetDeviceList(DEVICE_ID_LIST)
 	ResetAll
 End Event
 
@@ -275,6 +278,70 @@ Function SetSelectedFileNormal()
 End Function
 
 //////////////////////////////////
+// Word Relations Function
+Function GenerateWordDoc(outputPath, fileName, fileMD5, fileSizeReadableMB, fileSizeReadableByte, model, version, oem)
+	Dim deviceID, fileList, filePath
+	deviceID = GetDeviceIndex()
+	Select Case deviceID
+		Case DEVICE_ID_R48G
+			filePath = DEVICE_R48G_WORD_TEMPLATE_PATH
+			fileList = Split(DEVICE_R48G_WORD_TEMPLATE_LIST, "|")
+		
+		Case DEVICE_ID_R49P
+			// Unsupport now
+			GenerateWordDoc = false
+			Exit Function
+			
+		Case Else
+			GenerateWordDoc = false
+			Exit Function
+	End Select
+
+	TraceLog "fileList - " + fileList
+	Dim wordFileFd
+	For i = 0 To UBound(fileList)
+		// 合法性检查
+		If false = Plugin.File.IsFileExist(filePath + fileList(i)) Then 
+			TraceLog "模板文件[" + filePath + fileList(i) + "]不存在!"
+			GenerateWordDoc = false
+			Exit Function
+		End If
+		
+		TraceLog "操作..." + outputPath + fileList(i)
+		
+		// 复制文件
+		Plugin.File.CopyFile filePath + fileList(i), outputPath + fileList(i)
+		
+		// 替换关键字
+		wordFileFd = Plugin.LazyOffice.WordOpen(outputPath + fileList(i))
+		Plugin.LazyOffice.WordFind "$fileName", fileName
+		Plugin.LazyOffice.WordFind "$fileMD5", fileMD5
+		Plugin.LazyOffice.WordFind "$fileSizeReadableMB", fileSizeReadableMB
+		Plugin.LazyOffice.WordFind "$fileSizeReadableByte", fileSizeReadableByte
+		Plugin.LazyOffice.WordFind "$model", model
+		Plugin.LazyOffice.WordFind "$version", version
+		Plugin.LazyOffice.WordFind "$oem", oem
+		
+		Plugin.LazyOffice.WordClose(wordFileFd)
+	Next
+	
+	GenerateWordDoc = true
+End Function
+
+Function GenerateWordDocInR48G(outputPath, fileName, fileMD5, fileSizeReadableMB, fileSizeReadableByte, model, version, oem)
+	Dim wordFile, fileList, curFile
+	fileList = Split(FormGlobal.ComboxDevice.List, "|")
+	wordFile = Plugin.LazyOffice.WordOpen(filePath)
+
+	Plugin.LazyOffice.WordClose (wordFile)	
+End Function
+
+Function GenerateWordDocInR49P(outputPath, fileName, fileMD5, fileSizeReadableMB, fileSizeReadableByte, model, version, oem)
+	// Unsupport now
+	GenerateWordDocInR49P = false
+End Function
+
+//////////////////////////////////
 // Common Function
 Function ClearLog()
 	FormGlobal.InputLog.text = ""
@@ -415,7 +482,6 @@ Sub DoGenerate()
 	oem = GetOem(fileName)
 	
 	// 信息输出
-	TraceLog "#################"
 	TraceLog "文件名称 - " + fileName
 	TraceLog "文件路径 - " + filePath
 	TraceLog "文件MD5 - " + fileMD5
@@ -423,9 +489,16 @@ Sub DoGenerate()
  	TraceLog "机型 - " + model
 	TraceLog "版本 - " + version
 	TraceLog "OEM - " + oem
-	TraceLog "#################"
 	
-	// 文件替换
+	Dim generateRes
+	// 根据模板生成Word文档
+	generateRes = GenerateWordDoc("./outputs", fileName, fileMD5, fileSizeReadableMB, fileSizeReadableByte, model, version, oem)
+	If false = generateRes Then 
+		TraceLog "生成Word文件失败, 请检查模板文件及日志信息!"
+		Exit Sub
+	End If
+	
+	// 根据模板生成Excel文档
 	
 	// 结束
 	TraceLog "生成结束, 请审核outputs文件夹中内容!"
