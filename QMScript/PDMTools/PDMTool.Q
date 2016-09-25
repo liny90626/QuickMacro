@@ -23,7 +23,7 @@ SetupOCXFile=
 [Comment]
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -240,8 +240,25 @@ Function IsValidSelectedFile()
 		IsValidSelectedFile = false
 	ElseIf false = Plugin.File.IsFileExist(filePath) Then
 		IsValidSelectedFile = false
+	ElseIf false = IsValidDeviceIndex Then 
+		IsValidSelectedFile = false	
 	Else 
-		IsValidSelectedFile = true
+		// 增加正则匹配文件名是否合法
+		Dim fileName, deviceNameL
+		fileName = GetFileName(filePath)
+		deviceNameL = LCase(GetDeviceName)
+
+		Dim regEx, matches, matched
+		Set regEx = New RegExp
+		regEx.Pattern = "^" + deviceNameL + "-([0-9]{1,4}\.){3}[0-9]{1,4}-[0-9a-zA-Z]{1,}.img$"
+		
+		Set matches = regEx.Execute(fileName)
+		matched = matches(0)
+		If matched = fileName Then 
+			IsValidSelectedFile = true
+		Else 
+			IsValidSelectedFile = false	
+		End If
 	End If
 End Function
 
@@ -271,40 +288,94 @@ Function TraceLog(logContent)
     FormGlobal.InputLog.text = FormGlobal.InputLog.text + vbcrlf + logline
 End Function
 
-Function round(value, keep)
-    Dim integerPart, decimalPart
-    integerPart = split(value, ".")(0)
-    decimalPart = split(value, ".")(1)
-    If len(decimalPart) < keep Then 
-        round = integerPart & "." & String(keep - len(decimalPart), "0")
-    ElseIf len(decimalPart) = keep Then   
-        round = value
-    ElseIf len(decimalPart) > keep Then
-    	Dim tmpLen, tmpValue
-        If Mid(decimalPart, keep + 1, 1) >= 5 Then 
-            If len(decimalPart) = 1 Then 
-                round = integerPart + 1
-            Else 
-            	tmpLen = len(left(decimalPart, keep))
-            	tmpValue = left(decimalPart, keep) + 1
-            	If (len(tmpValue) <> tmpLen) Then 
-            		tmpValue = String(tmpLen - len(tmpValue), "0") & tmpValue
+Function Round(value, keep)
+	If 0 <> InStr(value, ".") Then
+    	Dim integerPart, decimalPart
+    	integerPart = split(value, ".")(0)
+    	decimalPart = split(value, ".")(1)
+    	If Len(decimalPart) < keep Then 
+        	Round = integerPart & "." & String(keep - Len(decimalPart), "0")
+    	ElseIf Len(decimalPart) = keep Then   
+        	Round = value
+    	ElseIf Len(decimalPart) > keep Then
+    		Dim tmpLen, tmpValue
+        	If Mid(decimalPart, keep + 1, 1) >= 5 Then 
+            	If Len(decimalPart) = 1 Then 
+                	Round = integerPart + 1
+            	Else 
+            		tmpLen = Len(Left(decimalPart, keep))
+            		tmpValue = Left(decimalPart, keep) + 1
+            		If (Len(tmpValue) <> tmpLen) Then 
+            			tmpValue = String(tmpLen - Len(tmpValue), "0") & tmpValue
+            		End If
+                	Round = integerPart & "." & tmpValue
             	End If
-                round = integerPart & "." & tmpValue
-            End If
-        Else 
-            If len(decimalPart) = 1 Then 
-                round = integerPart
-            Else 
-            	tmpLen = len(left(decimalPart, keep))
-            	tmpValue = left(decimalPart, keep) + 1
-            	If (len(tmpValue) <> tmpValue) Then 
-            		tmpValue = String(tmpLen - len(tmpValue), "0") & tmpValue
+        	Else 
+            	If Len(decimalPart) = 1 Then 
+                	Round = integerPart
+            	Else 
+            		tmpLen = Len(Left(decimalPart, keep))
+            		tmpValue = Left(decimalPart, keep) + 1
+            		If (Len(tmpValue) <> tmpValue) Then 
+            			tmpValue = String(tmpLen - Len(tmpValue), "0") & tmpValue
+            		End If
+                	Round = integerPart & "." & tmpValue
             	End If
-                round = integerPart & "." & tmpValue
-            End If
-        End If
+        	End If
+    	End If
+    Else 
+    	Round = value & "." & String(keep, "0")
     End If
+End Function
+
+Function TrimBytes(value)
+	Dim comma, num, lenth
+	Dim leftPart, rightPart
+	lenth = Len(value)
+	
+	If lenth > 3 Then 
+		For i = 3 To lenth step 3	
+		leftPart = Left(value, lenth - i + ((i-3)/3))
+		rightPart = right(value, i + ((i-3)/3))
+		value = leftPart & "," & rightPart
+		Next	
+	End If
+	
+	TrimBytes = CStr(value)
+End Function
+
+Function GetFileName(filePath)
+	Dim fso
+	Set fso = CreateObject("Scripting.FileSystemObject")
+  	GetFileName = fso.GetFileName(filePath)
+End Function
+
+Function GetModel(fileName)
+	Dim regEx, matches
+	Set regEx = New RegExp
+	regEx.Pattern = "^r[4][89]"
+	Set matches = regEx.Execute(fileName)
+	GetModel = matches(0)
+End Function
+
+Function GetVersion(fileName)
+	Dim regEx, matches
+	Set regEx = New RegExp
+	regEx.Pattern = "([0-9]{1,4}\.){3}[0-9]{1,4}"
+	Set matches = regEx.Execute(fileName)
+	GetVersion = matches(0)
+End Function
+
+Function GetOem(fileName)
+	Dim regEx, matches
+	Set regEx = New RegExp
+	regEx.Pattern = "-[0-9a-zA-Z]{1,}.img"
+	Set matches = regEx.Execute(fileName)
+	
+	regEx.Pattern = "[0-9a-zA-Z]{1,}"
+	Set matches = regEx.Execute(matches(0))
+	
+	GetOem = matches(0)
 End Function
 
 Function ResetAll()
@@ -328,25 +399,31 @@ Sub DoGenerate()
 	DisableBtnOK 
 	DisableBtnReset 
 	DisableBtnSelectFile 
-	
-	Dim device
-	device = GetDeviceName
-	
-	Dim filePath, fileMD5, fileSize, fileSizeReadableByte, fileSizeReadableMB
+		
+	Dim filePath, fileName, fileMD5, fileSize, fileSizeReadableByte, fileSizeReadableMB
 	filePath = GetSelectedFile
+	fileName = GetFileName(filePath)
 	fileMD5 = Plugin.Encrypt.Md5File(filePath)
 	fileSize = Plugin.File.GetFileLength(filePath)
-	
-	fileSizeReadableByte =  CStr(fileSize) + " Bytes"
-	fileSizeReadableMB = round(fileSize/1024/1024, 2) + " MB"
 
+	fileSizeReadableByte = TrimBytes(fileSize) + " Bytes"
+	fileSizeReadableMB = Round(fileSize/1024/1024, 1) + " MB"
+
+	Dim model, version, oem
+	model = GetModel(fileName)
+	version = GetVersion(fileName)
+	oem = GetOem(fileName)
 	
 	// 信息输出
-	TraceLog "机型名称 - " + device
+	TraceLog "#################"
+	TraceLog "文件名称 - " + fileName
 	TraceLog "文件路径 - " + filePath
 	TraceLog "文件MD5 - " + fileMD5
  	TraceLog "文件大小 - " + fileSizeReadableMB + "(" + fileSizeReadableByte + ")"
-	
+ 	TraceLog "机型 - " + model
+	TraceLog "版本 - " + version
+	TraceLog "OEM - " + oem
+	TraceLog "#################"
 	
 	// 文件替换
 	
