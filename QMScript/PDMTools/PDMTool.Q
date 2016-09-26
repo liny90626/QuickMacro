@@ -23,7 +23,7 @@ SetupOCXFile=
 [Comment]
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -43,6 +43,9 @@ Event FormGlobal.Load
     Const DEVICE_ID_LIST = "R48G"
     Const TIPS_SELECT_FILE = "请选择要上PDM的img文件"
     Const TIPS_SELECT_MACTOOL = "请选择要上PDM的mac工具"
+    Const TIPS_INPUT_PRODUCT_NAME = "请输入整机料号"
+    Const TIPS_INPUT_BOARD_NAME = "请输入主板料号"
+    Const TIPS_INPUT_RF_FREQ = "请输入RF频率"
 	
     SetPDMToolVersion(PDMTOOL_VERSION)
     SetDeviceList(DEVICE_ID_LIST)
@@ -61,6 +64,9 @@ Event FormGlobal.BtnOK.Click
     checkRes = CheckDevice and checkRes
     checkRes = CheckSelectedFile and checkRes
     checkRes = CheckSelectedMacTool and checkRes
+	
+	// 机型相关的检查
+	
 	
     If false = checkRes Then
         TraceLog "检测失败, 请正确填写PDM所需信息"
@@ -97,16 +103,28 @@ End Event
 // Select Event
 Event FormGlobal.ComboxDevice.SelectChange
     SetDeviceNormal 
-    ResetSelecteFile 
-    ResetSelecteMacTool
+    ResetAllWithoutDevice 
+    
     If IsValidDeviceIndex Then 
+    	SetGroupBoxInfo (GetDeviceName)
         ShowSelectFile
-        ShowSelectMacTool
-        SetGroupBoxInfo (GetDeviceName)
+        ShowSelectMacTool 
+        ShowProductName 
+        ShowBoardName
 		
         // 根据机型, 加载对应布局
-        Dim deviceId
-        deviceId = GetDeviceIndex
+        Dim deviceID
+        deviceID = GetDeviceIndex
+        
+        Select Case deviceID
+    	Case DEVICE_ID_R48G
+        	ShowRfFreq
+	
+    	Case DEVICE_ID_R49P
+				
+    	Case Else
+        	
+    	End Select
     End If
 End Event
 
@@ -176,6 +194,14 @@ End Function
 
 Function DisableBtnSelectFile()
     FormGlobal.BtnSelectFile.Enabled = false
+End Function
+
+Function EnableBtnSelectMacTool()
+    FormGlobal.BtnSelectMacTool.Enabled = true
+End Function
+
+Function DisableBtnSelectMacTool()
+    FormGlobal.BtnSelectMacTool.Enabled = false
 End Function
 
 //////////////////////////////////
@@ -373,41 +399,197 @@ Function SetSelectedMacToolNormal()
 End Function
 
 //////////////////////////////////
+// Input Relations Function
+Function ResetProductName()
+    SetRfFreqNormal
+	
+    FormGlobal.LabelProductName.Caption = TIPS_INPUT_PRODUCT_NAME
+    FormGlobal.LabelProductName.Visible = false
+    FormGlobal.InputProductName.Text = ""	
+    FormGlobal.InputProductName.Visible = false	
+End Function
+
+Function ShowProductName()
+    FormGlobal.LabelRfFreq.Visible = true
+    FormGlobal.InputProductName.Visible = true
+End Function
+
+Function GetProductName()
+    GetProductName = FormGlobal.InputProductName.Text
+End Function
+
+Function IsValidProductName()
+    Dim productName
+    productName = GetProductName
+    
+    If "" = productName Then 
+    	IsValidProductName = false
+    	Exit Function
+    End If
+	
+    IsValidProductName = true
+End Function
+
+Function SetProductNameOK()
+    FormGlobal.LabelProductName.TextColor = "1BA154"
+End Function
+
+Function SetProductNameErr()
+    FormGlobal.LabelProductName.TextColor = "0000FF"
+End Function
+
+Function SetProductNameNormal()
+    FormGlobal.LabelProductName.TextColor = "808080"
+End Function
+
+Function ResetBoardName()
+    SetBoardNameNormal
+	
+    FormGlobal.LabelBoardName.Caption = TIPS_INPUT_BOARD_NAME
+    FormGlobal.LabelBoardName.Visible = false
+    FormGlobal.InputBoardName.Text = ""	
+    FormGlobal.InputBoardName.Visible = false	
+End Function
+
+Function ShowBoardName()
+    FormGlobal.LabelBoardName.Visible = true
+    FormGlobal.InputBoardName.Visible = true
+End Function
+
+Function GetBoardName()
+    GetRfFreq = FormGlobal.InputRfFreq.Text
+End Function
+
+Function IsValidBoardName()
+    Dim boardName
+    boardName = GetBoardName
+    
+    If "" = GetBoardName Then 
+    	IsValidBoardName = false
+    	Exit Function
+    End If
+	
+    IsValidBoardName = true
+End Function
+
+Function SetBoardNameOK()
+    FormGlobal.LabelBoardName.TextColor = "1BA154"
+End Function
+
+Function SetBoardNameErr()
+    FormGlobal.LabelBoardName.TextColor = "0000FF"
+End Function
+
+Function SetBoardNameNormal()
+    FormGlobal.LabelBoardName.TextColor = "808080"
+End Function
+//
+Function ResetRfFreq()
+    SetRfFreqNormal
+	
+    FormGlobal.LabelRfFreq.Caption = TIPS_INPUT_RF_FREQ
+    FormGlobal.LabelRfFreq.Visible = false
+    FormGlobal.InputRfFreq.Text = ""	
+    FormGlobal.InputRfFreq.Visible = false	
+End Function
+
+Function ShowRfFreq()
+    FormGlobal.LabelRfFreq.Visible = true
+    FormGlobal.InputRfFreq.Visible = true
+End Function
+
+Function GetRfFreq()
+    GetRfFreq = FormGlobal.InputRfFreq.Text
+End Function
+
+Function IsValidRfFreq()
+    Dim freq
+    freq = GetRfFreq
+    
+    Dim regEx, matches, matched
+    Set regEx = New RegExp
+    regEx.Pattern = "^[0-9]{0,}$"
+    Set matches = regEx.Execute(freq)
+    If 1 <> matches.Count Then 
+        IsValidRfFreq = false
+        Exit Function
+    End If
+	
+    IsValidRfFreq = true
+End Function
+
+Function SetRfFreqOK()
+    FormGlobal.LabelRfFreq.TextColor = "1BA154"
+End Function
+
+Function SetRfFreqErr()
+    FormGlobal.LabelRfFreq.TextColor = "0000FF"
+End Function
+
+Function SetRfFreqNormal()
+    FormGlobal.LabelRfFreq.TextColor = "808080"
+End Function
+
+//////////////////////////////////
 // Word Relations Function
-Function BuildWordDocMap(fileName, fileTime, fileMD5, fileSizeReadableMB, fileSizeReadableByte, model, version, oem)
+Function BuildWordDocMap(model, oem, version, mactoolVersion, _
+    	fileName, fileTime, fileMD5, fileSizeReadableMB, fileSizeReadableByte, _
+    	mactoolName, mactoolTime, mactoolMD5, mactoolSizeReadableMB, mactoolSizeReadableByte)
     Const WORD_DOC_MAP_KEY_SIZE = 2
     Const WORD_DOC_MAP_VALUE_SIZE = 10
 
-    Dim map(2, 10)
-    map(0, 0) = "${fileName}"
-    map(1, 0) = fileName
+    Dim map(2, 16)
+    
+    // Common
+    map(0, 0) = "${modelL}"
+    map(1, 0) = LCase(model)
 	
-    map(0, 1) = "${fileTime}"
-    map(1, 1) = fileTime
+    map(0, 1) = "${modelU}"
+    map(1, 1) = UCase(model)
+    
+    map(0, 2) = "${oemL}"
+    map(1, 2) = LCase(oem)
 	
-    map(0, 2) = "${fileMD5}"
-    map(1, 2) = fileMD5
+    map(0, 3) = "${oemU}"
+    map(1, 3) = UCase(oem)
+    
+    map(0, 4) = "${version}"
+    map(1, 4) = version
+    
+    map(0, 5) = "${mactoolVersion}"
+    map(1, 5) = mactoolVersion
+    
+    // img
+    map(0, 6) = "${fileName}"
+    map(1, 6) = fileName
 	
-    map(0, 3) = "${fileSizeReadableMB}"
-    map(1, 3) = fileSizeReadableMB
+    map(0, 7) = "${fileTime}"
+    map(1, 7) = fileTime
 	
-    map(0, 4) = "${fileSizeReadableByte}"
-    map(1, 4) = fileSizeReadableByte
+    map(0, 8) = "${fileMD5}"
+    map(1, 8) = fileMD5
 	
-    map(0, 5) = "${modelL}"
-    map(1, 5) = LCase(model)
+    map(0, 9) = "${fileSizeReadableMB}"
+    map(1, 9) = fileSizeReadableMB
 	
-    map(0, 6) = "${modelU}"
-    map(1, 6) = UCase(model)
+    map(0, 10) = "${fileSizeReadableByte}"
+    map(1, 10) = fileSizeReadableByte
 	
-    map(0, 7) = "${version}"
-    map(1, 7) = version
+	// mactool
+	map(0, 11) = "${mactoolName}"
+    map(1, 11) = mactoolName
 	
-    map(0, 8) = "${oemL}"
-    map(1, 8) = LCase(oem)
+    map(0, 12) = "${mactoolTime}"
+    map(1, 12) = mactoolTime
 	
-    map(0, 9) = "${oemU}"
-    map(1, 9) = UCase(oem)
+    map(0, 13) = "${mactoolMD5}"
+    map(1, 13) = mactoolMD5
+	
+    map(0, 14) = "${mactoolSizeReadableMB}"
+    map(1, 14) = mactoolSizeReadableMB
+	
+    map(0, 15) = "${mactoolReadableByte}"
+    map(1, 15) = mactoolSizeReadableByte
 	
     BuildWordDocMap = map	
 End Function
@@ -594,9 +776,16 @@ End Function
 
 Function ResetAll()
     ResetDevice 
+    ResetAllWithoutDevice
+End Function
+
+Function ResetAllWithoutDevice()
     ResetGroupBoxInfo 
     ResetSelecteFile 
-    ResetSelecteMacTool
+    ResetSelecteMacTool 
+    ResetProductName 
+    ResetBoardName
+    ResetRfFreq
 End Function
 
 Function Generate()
@@ -614,8 +803,9 @@ Sub DoGenerate()
     DisableBtnOK 
     DisableBtnReset 
     DisableBtnSelectFile 
+    DisableBtnSelectMacTool
 		
-    Dim filePath, fileName, fileMD5, fileSize, fileSizeReadableByte, fileSizeReadableMB, fileTime
+    Dim filePath, fileName, fileTime, fileMD5, fileSize, fileSizeReadableByte, fileSizeReadableMB
     filePath = GetSelectedFile
     fileName = GetFileName(filePath)
     fileTime = GetFileTime(filePath)
@@ -625,30 +815,48 @@ Sub DoGenerate()
     fileSizeReadableByte = TrimBytes(fileSize) + " Bytes"
     fileSizeReadableMB = Round(fileSize/1024/1024, 1) + " MB"
 
-    Dim model, version, oem
+	Dim mactoolPath, mactoolName, mactoolTime, mactoolMD5, mactoolSize, mactoolSizeReadableByte, mactoolSizeReadableMB
+	mactoolPath = GetSelectedMacTool
+	mactoolName = GetFileName(mactoolPath)
+	mactoolTime = GetFileTime(mactoolPath)
+	mactoolMD5 = Plugin.Encrypt.Md5File(filePath)
+    mactoolSize = Plugin.File.GetFileLength(filePath)
+    mactoolSizeReadableByte = TrimBytes(fileSize) + " Bytes"
+    mactoolSizeReadableMB = Round(fileSize/1024/1024, 1) + " MB"
+
+    Dim model, oem,  version, mactoolVersion
     model = GetModel(fileName)
-    version = GetVersion(fileName)
     oem = GetOem(fileName)
+    version = GetVersion(fileName)
+    mactoolVersion = GetVersion(mactoolName)
 	
     // 信息输出
-    TraceLog "文件名称 - " + fileName
-    TraceLog "文件创建时间 - " + fileTime
-    TraceLog "文件路径 - " + filePath
-    TraceLog "文件MD5 - " + fileMD5
-    TraceLog "文件大小 - " + fileSizeReadableMB + "(" + fileSizeReadableByte + ")"
- 	
+    TraceLog "-----------关键信息-------------"
     TraceLog "机型 - " + model
     TraceLog "版本 - " + version
     TraceLog "OEM - " + oem
+    TraceLog " "
+    TraceLog "img文件名称 - " + fileName
+    TraceLog "img文件创建时间 - " + fileTime
+    TraceLog "img文件MD5 - " + fileMD5
+    TraceLog "img文件大小 - " + fileSizeReadableMB + "(" + fileSizeReadableByte + ")"
+ 	TraceLog " "
+ 	TraceLog "mactool名称 - " + mactoolName
+    TraceLog "mactool创建时间 - " + mactoolTime
+    TraceLog "mactoolMD5 - " + mactoolMD5
+    TraceLog "mactool大小 - " + mactoolSizeReadableMB + "(" + mactoolSizeReadableByte + ")" 
 	
     Dim generateRes, keyWordsMap
-    keyWordsMap = BuildWordDocMap(fileName, fileTime, fileMD5, fileSizeReadableMB, fileSizeReadableByte, model, version, oem)
+    keyWordsMap = BuildWordDocMap(model, oem, version, mactoolVersion, _
+    	fileName, fileTime, fileMD5, fileSizeReadableMB, fileSizeReadableByte, _
+    	mactoolName, mactoolTime, mactoolMD5, mactoolSizeReadableMB, mactoolSizeReadableByte)
 	
     // 根据模板生成Word文档
     //generateRes = GenerateWordDoc(CStr(Plugin.Sys.GetDir(0)), keyWordsMap)
     generateRes = DoGenerateWordDoc("C:\Users\LinKy\Desktop\48g_CSC_V1.0-48.195.1.23版本上PDM", keyWordsMap)
     If false = generateRes Then 
         TraceLog "生成Word文件失败, 请检查模板文件及日志信息!"
+        EnableBtnSelectMacTool
         EnableBtnSelectFile
         EnableBtnReset 
         EnableBtnOK 
@@ -660,6 +868,7 @@ Sub DoGenerate()
     // 结束
     TraceLog "生成结束, 请审核outputs文件夹中内容!"
 	
+	EnableBtnSelectMacTool
     EnableBtnSelectFile
     EnableBtnReset 
     EnableBtnOK 
