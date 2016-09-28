@@ -50,7 +50,7 @@ ${mactoolUpdateNote}            ------      mac工具更新说明
 ${mactoolUpdateReason}          ------      mac工具升级原因
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -65,33 +65,45 @@ gKeywordsMapSizeByDevice = 0
 //////////////////////////////////
 // Init Event
 Event FormGlobal.Load
-    Const PDMTOOL_VERSION = "1.1.0927"
+    Const PDMTOOL_VERSION = "1.1.0928"
     Const DEIVCE_LIST_NUM = 1
-    Const DEVICE_ID_INVALID = -1
-    Const DEVICE_ID_R48G = 0
-    Const DEVICE_ID_R49P = 1
-    Const DEVICE_ID_LIST = "R48G"
+    Const DEVICE_ID_INVALID = - 1 
+    Const DEVICE_ID_R47G = 0
+    Const DEVICE_ID_R48G = 1
+    Const DEVICE_ID_R49P = 2
+    Const DEVICE_ID_LIST = "R47G|R48G"
+    
+    Const UPDATE_REASON_LIST_NUM = 2
+    Const UPDATE_REASON_ID_INVALID = -1
+    Const UPDATE_REASON_ID_FIRST = 0
+    Const UPDATE_REASON_ID_PLAN = 1
+    Const UPDATE_REASON_ID_LIST = "首次发行|版本更新, 计划升级"
+    
     Const MACTOOL_UPDATE_REASON_LIST_NUM = 2
     Const MACTOOL_UPDATE_REASON_ID_INVALID = -1
     Const MACTOOL_UPDATE_REASON_ID_FIRST = 0
-    Const MACTOOL_UPDATE_REASON_ID_PLAN = 0
+    Const MACTOOL_UPDATE_REASON_ID_PLAN = 1
     Const MACTOOL_UPDATE_REASON_ID_LIST = "首次发行|版本更新, 计划升级"
+    
     Const TIPS_SELECT_FILE = "请选择要上PDM的img文件"
     Const TIPS_SELECT_MACTOOL = "请选择要上PDM的mac工具"
     Const TIPS_INPUT_PRODUCT_NAME = "产品型号"
     Const TIPS_INPUT_BOARD_NAME = "主板型号"
-    Const TIPS_INPUT_HW_VERSION = "硬件型号"
-    Const TIPS_INPUT_UPDATE_NOTE = "更新说明"
+    Const TIPS_INPUT_HW_VERSION = "硬件版本"
     Const TIPS_INPUT_TIME_ZONE = "时区"
     Const TIPS_INPUT_LANGUAGE = "语言"
+    
+    Const TIPS_INPUT_UPDATE_REASON = "版本升级原因"
+    Const TIPS_INPUT_UPDATE_NOTE= "版本更新说明"
     Const TIPS_INPUT_MACTOOL_UPDATE_REASON = "mac工具升级原因"
-    Const TIPS_INPUT_MACTOOL_UPDATE_NOTE= "mac工具更新说明"
+    Const TIPS_INPUT_MACTOOL_UPDATE_NOTE = "mac工具更新说明"
+    
     Const TIPS_INPUT_RF_FREQ = "RF频率"
 	
     SetPDMToolVersion(PDMTOOL_VERSION)
     SetDeviceList(DEVICE_ID_LIST)
     ResetAll 
-    
+
     gRunPath = CStr(Plugin.Sys.GetDir(0))
 End Event
 
@@ -115,7 +127,8 @@ Event FormGlobal.BtnOK.Click
     checkRes = CheckMactoolUpdateNote and checkRes
     checkRes = CheckTimeZone and checkRes
     checkRes = CheckLanguage and checkRes
-    checkRes = CheckMactoolReason and checkRes
+    checkRes = CheckUpdateReason and checkRes
+    checkRes = CheckMactoolUpdateReason and checkRes
 
 	// 机型相关的检查
 	Dim deviceID
@@ -179,6 +192,7 @@ Event FormGlobal.ComboxDevice.SelectChange
         ShowMactoolUpdateNote
         ShowTimeZone 
         ShowLanguage 
+        ShowUpdateReason
         ShowMactoolUpdateReason
 		
         // 根据机型, 加载对应布局
@@ -186,6 +200,8 @@ Event FormGlobal.ComboxDevice.SelectChange
         deviceID = GetDeviceIndex
         
         Select Case deviceID
+        Case DEVICE_ID_R47G
+        
     	Case DEVICE_ID_R48G
         	ShowRfFreq
 	
@@ -310,14 +326,25 @@ Function CheckMactoolUpdateNote()
     End If
 End Function
 
-Function CheckMactoolReason()
+Function CheckUpdateReason()
+	If IsValidUpdateReasonIndex Then 
+        SetUpdateReasonOK 
+        CheckUpdateReason = true
+    Else 
+        TraceLog "mac工具升级原因选择有误"
+        SetUpdateReasonErr
+        CheckUpdateReason = false
+    End If
+End Function
+
+Function CheckMactoolUpdateReason()
 	If IsValidMactoolUpdateReasonIndex Then 
         SetMactoolUpdateReasonOK 
-        CheckMactoolReason = true
+        CheckMactoolUpdateReason = true
     Else 
         TraceLog "mac工具升级原因选择有误"
         SetMactoolUpdateReasonErr
-        CheckMactoolReason = false
+        CheckMactoolUpdateReason = false
     End If
 End Function
 
@@ -942,6 +969,60 @@ Function SetLanguageNormal()
     FormGlobal.InputLanguage.NormalColor = "808080"
 End Function
 
+Function ResetUpdateReason()
+    SetUpdateReasonNormal
+	
+    FormGlobal.LabelUpdateReason.Caption = TIPS_INPUT_UPDATE_REASON
+    FormGlobal.LabelUpdateReason.Visible = false
+    FormGlobal.ComboxUpdateReason.List = UPDATE_REASON_ID_LIST
+	FormGlobal.ComboxUpdateReason.ListIndex = UPDATE_REASON_ID_INVALID
+    FormGlobal.ComboxUpdateReason.Visible = false	
+End Function
+
+Function ShowUpdateReason()
+	SetUpdateReasonNormal 
+	
+    FormGlobal.LabelUpdateReason.Visible = true
+    FormGlobal.ComboxUpdateReason.Visible = true
+End Function
+
+Function GetUpdateReasonIndex()
+    GetUpdateReasonIndex = FormGlobal.ComboxUpdateReason.ListIndex
+End Function
+
+Function IsValidUpdateReasonIndex()
+    Dim reasonIndex
+    reasonIndex = FormGlobal.ComboxUpdateReason.ListIndex
+    If 0 > reasonIndex Then
+        IsValidUpdateReasonIndex = false
+    ElseIf UPDATE_REASON_LIST_NUM <= reasonIndex Then
+        IsValidUpdateReasonIndex = false
+    Else 
+        IsValidUpdateReasonIndex = true
+    End If
+End Function
+
+Function GetUpdateReason()
+    Dim reasonList
+    reasonList = Split(FormGlobal.ComboxUpdateReason.List, "|")
+    GetUpdateReason = reasonList(FormGlobal.ComboxUpdateReason.ListIndex)
+End Function
+
+Function SetUpdateReasonOK()
+    FormGlobal.LabelUpdateReason.TextColor = "1BA154"
+    FormGlobal.ComboxUpdateReason.NormalColor = "1BA154"
+End Function
+
+Function SetUpdateReasonErr()
+    FormGlobal.LabelUpdateReason.TextColor = "0000FF"
+    FormGlobal.ComboxUpdateReason.NormalColor = "0000FF"
+End Function
+
+Function SetUpdateReasonNormal()
+    FormGlobal.LabelUpdateReason.TextColor = "808080"
+    FormGlobal.ComboxUpdateReason.NormalColor = "808080"
+End Function
+
 Function ResetMactoolUpdateReason()
     SetMactoolUpdateReasonNormal
 	
@@ -1119,6 +1200,11 @@ Function BuildKeyWordsMap(userName, model, oem, version, hwVersion, mactoolVersi
     gKeywordsMapSize = gKeywordsMapSize + 1
 	
 	ReDim Preserve map(2, gKeywordsMapSize + 1)
+    map(0, gKeywordsMapSize) = "${updateReason}"
+    map(1, gKeywordsMapSize) = GetUpdateReason()
+    gKeywordsMapSize = gKeywordsMapSize + 1
+	
+	ReDim Preserve map(2, gKeywordsMapSize + 1)
     map(0, gKeywordsMapSize) = "${timezone}"
     map(1, gKeywordsMapSize) = GetTimeZone()
     gKeywordsMapSize = gKeywordsMapSize + 1
@@ -1146,6 +1232,8 @@ Function BuildKeyWordsMapByDevice()
     deviceID = GetDeviceIndex
     
     Select Case deviceID
+    Case DEVICE_ID_R47G
+    	
     Case DEVICE_ID_R48G
     	gKeywordsMapSizeByDevice = 2 
         Redim mapByDevice(2, gKeywordsMapSizeByDevice)
@@ -1159,6 +1247,7 @@ Function BuildKeyWordsMapByDevice()
         Else
         	mapByDevice(1, 1) = "-rf" + mapByDevice(1, 0)
         End If
+        
     Case DEVICE_ID_R49P
 			
     Case Else
@@ -1171,11 +1260,17 @@ End Function
 Function DoGenerateWordDoc(curPath, keyWordsMap, keyWordsMapByDevice)
     Const DEVICE_WORD_TEMPLATE_PATH = "\templates"
     Const DEVICE_WORD_OUTPUT_PATH = "\outputs"
+    Const DEVICE_R47G_WORD_TEMPLATE_LIST = "工程文件发行.doc|Mac烧写工具.doc"
     Const DEVICE_R48G_WORD_TEMPLATE_LIST = "工程文件发行.doc|Mac烧写工具.doc"
 	
     Dim deviceID, fileList, filePath, outputPath
     deviceID = GetDeviceIndex()
     Select Case deviceID
+    Case DEVICE_ID_R47G
+    	filePath = curPath + DEVICE_WORD_TEMPLATE_PATH + "\R47G\"
+        fileList = Split(DEVICE_R47G_WORD_TEMPLATE_LIST, "|")
+        outputPath = curPath + DEVICE_WORD_OUTPUT_PATH + "\R47G\"
+        
     Case DEVICE_ID_R48G
         filePath = curPath + DEVICE_WORD_TEMPLATE_PATH + "\R48G\"
         fileList = Split(DEVICE_R48G_WORD_TEMPLATE_LIST, "|")
@@ -1225,11 +1320,17 @@ End Function
 Function DoGenerateExcelXls(curPath, keyWordsMap, keyWordsMapByDevice)
 	Const DEVICE_EXCEL_TEMPLATE_PATH = "\templates"
     Const DEVICE_EXCEL_OUTPUT_PATH = "\outputs"
+    Const DEVICE_R47G_EXCEL_TEMPLATE_LIST = "工程文件发行说明文件导入模板.xls|版本评估会会议决议模版.xls|Mac烧写工具软件说明文件导入模板.xls"
     Const DEVICE_R48G_EXCEL_TEMPLATE_LIST = "工程文件发行说明文件导入模板.xls|版本评估会会议决议模版.xls|Mac烧写工具软件说明文件导入模板.xls"
 	
     Dim deviceID, fileList, filePath, outputPath
     deviceID = GetDeviceIndex()
     Select Case deviceID
+    Case DEVICE_ID_R47G
+        filePath = curPath + DEVICE_EXCEL_TEMPLATE_PATH + "\R47G\"
+        fileList = Split(DEVICE_R47G_EXCEL_TEMPLATE_LIST, "|")
+        outputPath = curPath + DEVICE_EXCEL_OUTPUT_PATH + "\R47G\"
+        
     Case DEVICE_ID_R48G
         filePath = curPath + DEVICE_EXCEL_TEMPLATE_PATH + "\R48G\"
         fileList = Split(DEVICE_R48G_EXCEL_TEMPLATE_LIST, "|")
@@ -1364,7 +1465,7 @@ End Function
 Function GetModel(fileName)
     Dim regEx, matches
     Set regEx = New RegExp
-    regEx.Pattern = "^r[4][89][gp]{0,1}"
+    regEx.Pattern = "^r[4][789][gp]{0,1}"
     Set matches = regEx.Execute(fileName)
     If 1 <> matches.Count Then 
         GetModel = "Unknown"
@@ -1420,7 +1521,8 @@ Function ResetAllWithoutDevice()
     ResetUpdateNote 
     ResetMactoolUpdateNote
     ResetTimeZone 
-    ResetLanguage
+    ResetLanguage 
+    ResetUpdateReason
     ResetMactoolUpdateReason
     ResetRfFreq
 End Function
