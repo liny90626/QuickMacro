@@ -42,6 +42,11 @@ ${fileTime}                     ------      img文件创建时间
 ${fileMD5}                      ------      img文件MD5
 ${fileSizeReadableMB}           ------      img文件大小(MB形式)
 ${fileSizeReadableByte}         ------      img文件大小(字节形式)
+${zipfileName}                  ------      zip文件名
+${zipfileTime}                  ------      zip文件创建时间
+${zipfileMD5}                   ------      zip文件MD5
+${zipfileSizeReadableMB}        ------      zip文件大小(MB形式)
+${zipfileSizeReadableByte}      ------      zip文件大小(字节形式)
 ${mactoolName}                  ------      mac工具文件名
 ${mactoolTime}                  ------      mac工具创建时间
 ${mactoolMD5}                   ------      mac工具MD5
@@ -54,7 +59,7 @@ ${mactoolUpdateNote}            ------      mac工具更新说明
 ${mactoolUpdateReason}          ------      mac工具升级原因
 
 [UIPackage]
-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
+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
 
 
 [Script]
@@ -90,6 +95,7 @@ Event FormGlobal.BtnOK.Click
     checkRes = true
     checkRes = CheckDevice and checkRes
     checkRes = CheckSelectedFile and checkRes
+    checkRes = CheckSelectedZipFile and checkRes
     checkRes = CheckSelectedMacTool and checkRes
     checkRes = CheckProductName and checkRes
     checkRes = CheckBoardName and checkRes
@@ -138,6 +144,15 @@ Event FormGlobal.BtnSelectFile.Click
     End If
 End Event
 
+Event FormGlobal.BtnSelectZipFile.Click
+    Dim filePath
+    filePath = Plugin.File.SelectFile()
+    If filePath <> "" Then 
+        SetSelectedZipFileNormal
+        SetSelectedZipFile(filePath)
+    End If
+End Event
+
 Event FormGlobal.BtnSelectMacTool.Click
     Dim filePath
     filePath = Plugin.File.SelectFile()
@@ -155,7 +170,8 @@ Event FormGlobal.ComboxDevice.SelectChange
     
     If IsValidDeviceIndex Then 
     	SetGroupBoxInfo (GetDeviceName)
-        ShowSelectFile
+        ShowSelectFile 
+        ShowSelectZipFile
         ShowSelectMacTool 
         ShowProductName 
         ShowBoardName 
@@ -210,6 +226,17 @@ Function CheckSelectedFile()
         TraceLog "请选择正确的img文件"
         SetSelectedFileErr 
         CheckSelectedFile = false
+    End If
+End Function
+
+Function CheckSelectedZipFile()
+    If IsValidSelectedZipFile Then 
+        SetSelectedZipFileOK 
+        CheckSelectedZipFile = true
+    Else 
+        TraceLog "请选择正确的zip文件"
+        SetSelectedZipFileErr 
+        CheckSelectedZipFile = false
     End If
 End Function
 
@@ -377,6 +404,14 @@ Function DisableBtnSelectFile()
     FormGlobal.BtnSelectFile.Enabled = false
 End Function
 
+Function EnableBtnSelectZipFile()
+    FormGlobal.BtnSelectZipFile.Enabled = true
+End Function
+
+Function DisableBtnSelectZipFile()
+    FormGlobal.BtnSelectZipFile.Enabled = false
+End Function
+
 Function EnableBtnSelectMacTool()
     FormGlobal.BtnSelectMacTool.Enabled = true
 End Function
@@ -508,6 +543,75 @@ End Function
 
 Function SetSelectedFileNormal()
     FormGlobal.LabelSelectedFile.TextColor = "808080"
+End Function
+
+//////////////////////////////////
+// SelectZipFile Relations Function
+Function ResetSelecteZipFile()
+    SetSelectedZipFileNormal 
+	
+    FormGlobal.LabelSelectedZipFile.Caption = TIPS_SELECT_ZIP_FILE
+    FormGlobal.LabelSelectedZipFile.Visible = false
+    FormGlobal.BtnSelectZipFile.Visible = false	
+End Function
+
+Function ShowSelectZipFile()
+    FormGlobal.LabelSelectedZipFile.Visible = true
+    FormGlobal.BtnSelectZipFile.Visible = true
+End Function
+
+Function SetSelectedZipFile(filePath)
+    FormGlobal.LabelSelectedZipFile.Caption = filePath
+End Function
+
+Function GetSelectedZipFile()
+    GetSelectedZipFile = FormGlobal.LabelSelectedZipFile.Caption
+End Function
+
+Function IsValidSelectedZipFile()
+    Dim filePath
+    filePath = GetSelectedZipFile
+    If filePath = TIPS_SELECT_ZIP_FILE Then 
+        IsValidSelectedZipFile = false
+    ElseIf false = Plugin.File.IsFileExist(filePath) Then
+        IsValidSelectedZipFile = false
+    ElseIf false = IsValidDeviceIndex Then 
+        IsValidSelectedZipFile = false	
+    Else 
+        // 增加正则匹配文件名是否合法
+        Dim fileName, deviceNameL
+        fileName = GetFileName(filePath)
+        deviceNameL = LCase(GetDeviceName)
+
+        Dim regEx, matches, matched
+        Set regEx = New RegExp
+        regEx.Pattern = "^" + deviceNameL + "-([0-9]{1,4}\.){3}[0-9]{1,4}-[0-9a-zA-Z]{1,}[_]{0,1}[0-9a-zA-Z]{0,}.zip$"
+
+        Set matches = regEx.Execute(fileName)
+        If 1 <> matches.Count Then 
+            IsValidSelectedZipFile = false
+            Exit Function
+        End If
+		
+        matched = matches(0)
+        If matched = fileName Then 
+            IsValidSelectedZipFile = true
+        Else 
+            IsValidSelectedZipFile = false	
+        End If
+    End If
+End Function
+
+Function SetSelectedZipFileOK()
+    FormGlobal.LabelSelectedZipFile.TextColor = "1BA154"
+End Function
+
+Function SetSelectedZipFileErr()
+    FormGlobal.LabelSelectedZipFile.TextColor = "0000FF"
+End Function
+
+Function SetSelectedZipFileNormal()
+    FormGlobal.LabelSelectedZipFile.TextColor = "808080"
 End Function
 
 //////////////////////////////////
@@ -1120,11 +1224,12 @@ End Function
 
 //////////////////////////////////
 // Word Relations Function
-Function GetOutputsFileListsOnlyImg()
-	GetOutputsFileListsOnlyImg = "1、工程文件" _
+Function GetOutputsFileListsOnlyImgAndZip()
+	GetOutputsFileListsOnlyImgAndZip = "1、工程文件" _
 		+ vbcrlf + "1）${fileName} - 工程文件 - PDM发行" _
-		+ vbcrlf + "2）软件版本说明单.doc - 文件说明 - PDM发行" _
-		+ vbcrlf + "3）工程文件发行说明文件导入模板.xls - 文件说明 - PDM发行"
+		+ vbcrlf + "2）${zipfileName} - 工程文件 - PDM发行" _
+		+ vbcrlf + "3）软件版本说明单.doc - 文件说明 - PDM发行" _
+		+ vbcrlf + "4）工程文件发行说明文件导入模板.xls - 文件说明 - PDM发行"
 End Function
 
 Function GetOutputsFileListsOnlyMac()
@@ -1137,8 +1242,9 @@ End Function
 Function GetOutputsFileListsAll()
 	GetOutputsFileListsAll = "1、工程文件" _
 		+ vbcrlf + "1）${fileName} - 工程文件 - PDM发行" _
-		+ vbcrlf + "2）软件版本说明单.doc - 文件说明 - PDM发行" _
-		+ vbcrlf + "3）工程文件发行说明文件导入模板.xls - 文件说明 - PDM发行" _
+		+ vbcrlf + "2）${zipfileName} - 工程文件 - PDM发行" _
+		+ vbcrlf + "3）软件版本说明单.doc - 文件说明 - PDM发行" _
+		+ vbcrlf + "4）工程文件发行说明文件导入模板.xls - 文件说明 - PDM发行" _
 		+ vbcrlf + "2、MAC工具" _
 		+ vbcrlf + "1）${mactoolName} - 工程文件 - PDM发行" _
 		+ vbcrlf + "2）软件版本说明单.doc - 文件说明 - PDM发行" _
@@ -1147,6 +1253,7 @@ End Function
 
 Function BuildKeyWordsMap(userName, verifyName, checkName, model, oem, version, hwVersion, hwModel, mactoolVersion, productName, productNameTrim, boardName, _
     	fileName, fileTime, fileMD5, fileSizeReadableMB, fileSizeReadableByte, _
+    	zipfileName, zipfileTime, zipfileMD5, zipfileSizeReadableMB, zipfileSizeReadableByte, _
     	mactoolName, mactoolTime, mactoolMD5, mactoolSizeReadableMB, mactoolSizeReadableByte)
 	
 	gKeywordsMapSize = 0
@@ -1163,7 +1270,7 @@ Function BuildKeyWordsMap(userName, verifyName, checkName, model, oem, version, 
     ElseIf reasonIndex <> UPDATE_REASON_ID_NONE Then
     	ReDim Preserve map(2, gKeywordsMapSize + 1)
     	map(0, gKeywordsMapSize) = "${outputsFileList}"
-    	map(1, gKeywordsMapSize) = GetOutputsFileListsOnlyImg()
+    	map(1, gKeywordsMapSize) = GetOutputsFileListsOnlyImgAndZip()
     	gKeywordsMapSize = gKeywordsMapSize + 1
     ElseIf macReasonIndex <> MACTOOL_UPDATE_REASON_ID_NONE Then
     	ReDim Preserve map(2, gKeywordsMapSize + 1)
@@ -1267,6 +1374,32 @@ Function BuildKeyWordsMap(userName, verifyName, checkName, model, oem, version, 
 	ReDim Preserve map(2, gKeywordsMapSize + 1)
     map(0, gKeywordsMapSize) = "${fileSizeReadableByte}"
     map(1, gKeywordsMapSize) = fileSizeReadableByte
+    gKeywordsMapSize = gKeywordsMapSize + 1
+	
+	// zip
+    ReDim Preserve map(2, gKeywordsMapSize + 1)
+    map(0, gKeywordsMapSize) = "${zipfileName}"
+    map(1, gKeywordsMapSize) = zipfileName
+    gKeywordsMapSize = gKeywordsMapSize + 1
+	
+	ReDim Preserve map(2, gKeywordsMapSize + 1)
+    map(0, gKeywordsMapSize) = "${zipfileTime}"
+    map(1, gKeywordsMapSize) = zipfileTime
+    gKeywordsMapSize = gKeywordsMapSize + 1
+	
+	ReDim Preserve map(2, gKeywordsMapSize + 1)
+    map(0, gKeywordsMapSize) = "${zipfileMD5}"
+    map(1, gKeywordsMapSize) = zipfileMD5
+    gKeywordsMapSize = gKeywordsMapSize + 1
+	
+	ReDim Preserve map(2, gKeywordsMapSize + 1)
+    map(0, gKeywordsMapSize) = "${zipfileSizeReadableMB}"
+    map(1, gKeywordsMapSize) = zipfileSizeReadableMB
+    gKeywordsMapSize = gKeywordsMapSize + 1
+	
+	ReDim Preserve map(2, gKeywordsMapSize + 1)
+    map(0, gKeywordsMapSize) = "${zipfileSizeReadableByte}"
+    map(1, gKeywordsMapSize) = zipfileSizeReadableByte
     gKeywordsMapSize = gKeywordsMapSize + 1
 	
 	// mactool
@@ -1512,7 +1645,7 @@ End Function
 //////////////////////////////////
 // Common Function
 Function InitDefined()
-	Const PDMTOOL_VERSION = "1.2.12200"
+	Const PDMTOOL_VERSION = "1.3.12260"
     Const DEIVCE_LIST_NUM = 4
     Const DEVICE_ID_INVALID = -1 
     Const DEVICE_ID_R47P = 0
@@ -1536,6 +1669,7 @@ Function InitDefined()
     Const MACTOOL_UPDATE_REASON_ID_LIST = "不发行|首次发行|版本更新, 计划升级"
     
     Const TIPS_SELECT_FILE = "请选择要上PDM的img文件"
+    Const TIPS_SELECT_ZIP_FILE = "请选择要上PDM的zip文件"
     Const TIPS_SELECT_MACTOOL = "请选择要上PDM的mac工具"
     Const TIPS_INPUT_PRODUCT_NAME = "产品型号"
     Const TIPS_INPUT_BOARD_NAME = "主板型号"
@@ -1686,6 +1820,7 @@ End Function
 Function ResetAllWithoutDevice()
     ResetGroupBoxInfo 
     ResetSelecteFile 
+    ResetSelecteZipFile
     ResetSelecteMacTool 
     ResetProductName 
     ResetBoardName 
@@ -1704,11 +1839,13 @@ Function DiableAll()
 	DisableBtnOK 
     DisableBtnReset 
     DisableBtnSelectFile 
+    DisableBtnSelectZipFile
     DisableBtnSelectMacTool
 End Function
 
 Function EnableAll()
-	EnableBtnSelectMacTool
+	EnableBtnSelectMacTool 
+	EnableBtnSelectZipFile
     EnableBtnSelectFile
     EnableBtnReset 
     EnableBtnOK 
@@ -1730,6 +1867,11 @@ Sub DoGenerate()
     DiableAll 
     InitDefined 
     
+	
+	Dim userName, verifyName, checkName
+	userName = InputBox("请输入编写者的名字")
+	verifyName = InputBox("请输入审核者的名字")
+	checkName = InputBox("请输入核准者的名字")
 		
     Dim filePath, fileName, fileTime, fileMD5, fileSize, fileSizeReadableByte, fileSizeReadableMB
     filePath = GetSelectedFile()
@@ -1741,11 +1883,16 @@ Sub DoGenerate()
     fileSizeReadableByte = TrimBytes(fileSize) + " 字节"
     fileSizeReadableMB = Round(fileSize/1024/1024, 1) + " MB"
 
-	Dim userName, verifyName, checkName
-	userName = InputBox("请输入编写者的名字")
-	verifyName = InputBox("请输入审核者的名字")
-	checkName = InputBox("请输入核准者的名字")
-	
+	Dim zipfilePath, zipfileName, zipfileTime, zipfileMD5, zipfileSize, zipfileSizeReadableByte, zipfileSizeReadableMB
+	zipfilePath = GetSelectedZipFile()
+    zipfileName = GetFileName(zipfilePath)
+    zipfileTime = GetFileTime(zipfilePath)
+    zipfileMD5 = Plugin.Encrypt.Md5File(zipfilePath)
+    zipfileSize = Plugin.File.GetFileLength(zipfilePath)
+
+    zipfileSizeReadableByte = TrimBytes(zipfileSize) + " 字节"
+    zipfileSizeReadableMB = Round(zipfileSize/1024/1024, 1) + " MB"
+
 	Dim mactoolPath, mactoolName, mactoolTime, mactoolMD5, mactoolSize, mactoolSizeReadableByte, mactoolSizeReadableMB
 	mactoolPath = GetSelectedMacTool()
 	mactoolName = GetFileName(mactoolPath)
@@ -1782,6 +1929,11 @@ Sub DoGenerate()
     TraceLog "img文件创建时间 - " + fileTime
     TraceLog "img文件MD5 - " + fileMD5
     TraceLog "img文件大小 - " + fileSizeReadableMB + "(" + fileSizeReadableByte + ")"
+    TraceLog "------"
+    TraceLog "zip文件名称 - " + zipfileName
+    TraceLog "zip文件创建时间 - " + zipfileTime
+    TraceLog "zip文件MD5 - " + zipfileMD5
+    TraceLog "zip文件大小 - " + zipfileSizeReadableMB + "(" + zipfileSizeReadableByte + ")"
  	TraceLog "------"
  	TraceLog "mactool名称 - " + mactoolName
     TraceLog "mactool创建时间 - " + mactoolTime
@@ -1793,6 +1945,7 @@ Sub DoGenerate()
     Dim generateRes, keyWordsMap, keyWordsMapByDevice
     keyWordsMap = BuildKeyWordsMap(userName, verifyName, checkName, model, oem, version, hwVersion, hwModel, mactoolVersion, productName, productNameTrim, boardName, _
     	fileName, fileTime, fileMD5, fileSizeReadableMB, fileSizeReadableByte, _
+    	zipfileName, zipfileTime, zipfileMD5, zipfileSizeReadableMB, zipfileSizeReadableByte, _
     	mactoolName, mactoolTime, mactoolMD5, mactoolSizeReadableMB, mactoolSizeReadableByte)
     	
     keyWordsMapByDevice = BuildKeyWordsMapByDevice()
